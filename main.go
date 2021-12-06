@@ -11,4 +11,5 @@ func calculatePow(x float64, y float64) float64 {
 
 func main() {
 	fmt.Println("Go CI Pipeline Demo")
+	fmt.Println(calculatePow(2, 5))
 }
